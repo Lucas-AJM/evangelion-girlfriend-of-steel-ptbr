@@ -1,0 +1,16 @@
+# Nunca versionar arquivos do jogo
+*.DAT
+*.dat
+*.exe
+*.EXE
+*.BP2
+*.bp2
+*.mpk
+*.png
+*.bmp
+*.zip
+*.csv
+*.xlsx
+*.otf
+*.ttf
+__pycache__/
